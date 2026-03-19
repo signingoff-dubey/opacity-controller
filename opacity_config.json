@@ -1,0 +1,13 @@
+{
+  "hotkey": "alt+t",
+  "autostart": false,
+  "windows": {
+    "Administrator: Command Prompt - python  \"C:\\opacity-controller\\main.py\"": 100,
+    "main.py - opacity-controller - Cursor": 100,
+    "Auth | Cursor - The best way to code with AI - Opera": 50,
+    "OpenCode": 65,
+    "ai.opencode.desktop-siw": 57,
+    "WhatsApp": 50,
+    "Claude": 68
+  }
+}
